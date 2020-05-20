@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee3363c-4688-4c0a-98e4-e7ffb29ad569" name="Default Changelist" comment="" />
+    <list default="true" id="7ee3363c-4688-4c0a-98e4-e7ffb29ad569" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Game Project/META-INF/Game Project.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,30 +15,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Panel/Game_Panel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+            <state relative-caret-position="136">
+              <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
               <folding>
                 <element signature="method#main#0;class#Game_Panel#0" />
                 <element signature="method#checkFinishPoint#0;class#Game_Panel#0" />
                 <element signature="docComment;method#Game_Panel#0;class#Game_Panel#0" />
-                <element signature="method#setTextField#0;class#Game_Panel#0" />
-                <element signature="method#setDrowField#0;class#Game_Panel#0" />
-                <element signature="e#5352#7106#0" />
                 <element signature="method#createPanel#0;class#Game_Panel#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Panel/DrawField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#setField#0;class#DrawField#0" />
               </folding>
             </state>
@@ -45,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/Object/Point.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="method#Point#0;class#Point#0" />
               </folding>
@@ -74,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Object/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="680">
               <caret line="195" column="5" selection-start-line="195" selection-start-column="5" selection-end-line="195" selection-end-column="5" />
               <folding>
                 <element signature="method#Maze#0;class#Maze#0" />
@@ -123,6 +125,9 @@
       <find>setField</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -140,17 +145,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -245,8 +253,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16032389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15303643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,7 +265,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2238806" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2238806" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,43 +288,62 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Form.java" />
     <entry file="file://$PROJECT_DIR$/src/Form.form" />
-    <entry file="file://$PROJECT_DIR$/src/Dot.java">
+    <entry file="file://$PROJECT_DIR$/src/Dot.java" />
+    <entry file="file://$PROJECT_DIR$/src/Maze.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Panel/Game_Panel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Maze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-end-line="134" />
+        <state relative-caret-position="136">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
           <folding>
-            <element signature="method#printField#0;class#Maze#0" />
+            <element signature="method#main#0;class#Game_Panel#0" />
+            <element signature="method#checkFinishPoint#0;class#Game_Panel#0" />
+            <element signature="docComment;method#Game_Panel#0;class#Game_Panel#0" />
+            <element signature="method#createPanel#0;class#Game_Panel#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Panel/DrawField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setField#0;class#DrawField#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Object/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="method#Point#0;class#Point#0" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="method#Player#0;class#Player#0" />
+            <element signature="method#checkScore#0;class#Player#0" />
+            <element signature="method#checkFinish#0;class#Player#0" />
+            <element signature="method#moveLeft#0;class#Player#0" />
+            <element signature="method#moveRight#0;class#Player#0" />
+            <element signature="method#moveUp#0;class#Player#0" />
+            <element signature="method#moveDown#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Object/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="680">
           <caret line="195" column="5" selection-start-line="195" selection-start-column="5" selection-end-line="195" selection-end-column="5" />
           <folding>
             <element signature="method#Maze#0;class#Maze#0" />
@@ -343,48 +371,6 @@
             <element signature="method#getText#0;class#Statistics#0" />
             <element signature="method#updateInformation#0;class#Statistics#0" />
             <element signature="method#getCountLevelsInThisSession#0;class#Statistics#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="method#Player#0;class#Player#0" />
-            <element signature="method#checkScore#0;class#Player#0" />
-            <element signature="method#checkFinish#0;class#Player#0" />
-            <element signature="method#moveLeft#0;class#Player#0" />
-            <element signature="method#moveRight#0;class#Player#0" />
-            <element signature="method#moveUp#0;class#Player#0" />
-            <element signature="method#moveDown#0;class#Player#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Panel/Game_Panel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <element signature="method#main#0;class#Game_Panel#0" />
-            <element signature="method#checkFinishPoint#0;class#Game_Panel#0" />
-            <element signature="docComment;method#Game_Panel#0;class#Game_Panel#0" />
-            <element signature="method#setTextField#0;class#Game_Panel#0" />
-            <element signature="method#setDrowField#0;class#Game_Panel#0" />
-            <element signature="e#5352#7106#0" />
-            <element signature="method#createPanel#0;class#Game_Panel#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Panel/DrawField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-          <folding>
-            <element signature="method#setField#0;class#DrawField#0" />
           </folding>
         </state>
       </provider>
